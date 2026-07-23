@@ -216,3 +216,20 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Model files
+*.pt
+*.pth
+*.ckpt
+
+# SQLite database
+*.db
+
+# Resume uploads
+data/resumes/
+
+# Processed files
+data/processed/
+
+# Hugging Face cache (optional)
+.cache/
