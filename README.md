@@ -115,7 +115,7 @@ streamlit run app.py
 ## Contributors
 
 - Usama Ahsan
-- Amna Noor
+- Amna Noor Khan
 
 ---
 
