@@ -1,0 +1,10 @@
+pypdf
+scikit-learn
+sentence-transformers
+torch
+scipy
+pytest
+
+# training/train.py and training/evaluate.py need torch + sentence-transformers,
+# which will download the SBERT model from huggingface.co the first time
+# they run -- make sure you have an internet connection for that step.
